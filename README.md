@@ -57,15 +57,15 @@ O intuito não é que você acerte a resposta, mas sim que você consiga chegar 
 
 ### Gerley Adriano (Data Science) - Santander Coders 2023
 
-Estou muito feliz com essa aprovação. Estava bem desacreditado, jurava que não iria conseguir. Mas agora entendo alguns pontos que podem ter sido relevantes na avaliação. Baseado nesses pontos, vou deixar algumas dicas para quem pretende participar das próximas edições:
+_Estou muito feliz com essa aprovação. Estava bem desacreditado, jurava que não iria conseguir. Mas agora entendo alguns pontos que podem ter sido relevantes na avaliação. Baseado nesses pontos, vou deixar algumas dicas para quem pretende participar das próximas edições:_
 
-**Apresentação pessoal**
+_**Apresentação pessoal**_
 
-Essa é a etapa que você tem mais controle sobre a situação. É o momento de você vender o seu peixe. É importante não apenas descrever fatos da sua vida, mas criar uma narrativa que mostre ao longo da sua trajetória o que o levou a chegar até essa dinâmica. Eu citei as minhas graduações, uma longa experiência como dev e projetos de extensão na área de dados. De maneira que essa narrativa dialogasse com a minha busca por essa trilha;
+_Essa é a etapa que você tem mais controle sobre a situação. É o momento de você vender o seu peixe. É importante não apenas descrever fatos da sua vida, mas criar uma narrativa que mostre ao longo da sua trajetória o que o levou a chegar até essa dinâmica. Eu citei as minhas graduações, uma longa experiência como dev e projetos de extensão na área de dados. De maneira que essa narrativa dialogasse com a minha busca por essa trilha;_
 
-**Trabalho em equipe**
+_**Trabalho em equipe**_
 
-Antes de começar a dinâmica, eu tinha muitas dúvidas se o meu grupo seria do tipo "todo mundo querendo ser protagonista" ou mais "o que importa é a solução". Não podendo controlar isso, tudo que me bastava era ser idealista. Acabou que o time foi um equilíbrio entre essas duas categorias. Como a minha dinâmica foi no penúltimo dia, usei esse recurso a meu favor. Para os temas possíveis, tentei resolver como um cientista de dados resolveria. Eu sabia quais correlações eu poderia fazer e quais as correlações só aumentariam a incerteza do resultado. Quando vi que alguns membros da equipe estavam indo para caminhos mais complexos, me posicionei e reafirmei que precisaríamos trabalhar com variáveis que realmente importavam na saída final. Esse trabalho de matriz de correlação e seleção de hiperparâmetros são etapas cruciais em várias situações de cientista de dados, especialmente na construção de modelos preditivos.
+_Antes de começar a dinâmica, eu tinha muitas dúvidas se o meu grupo seria do tipo "todo mundo querendo ser protagonista" ou mais "o que importa é a solução". Não podendo controlar isso, tudo que me bastava era ser idealista. Acabou que o time foi um equilíbrio entre essas duas categorias. Como a minha dinâmica foi no penúltimo dia, usei esse recurso a meu favor. Para os temas possíveis, tentei resolver como um cientista de dados resolveria. Eu sabia quais correlações eu poderia fazer e quais as correlações só aumentariam a incerteza do resultado. Quando vi que alguns membros da equipe estavam indo para caminhos mais complexos, me posicionei e reafirmei que precisaríamos trabalhar com variáveis que realmente importavam na saída final. Esse trabalho de matriz de correlação e seleção de hiperparâmetros são etapas cruciais em várias situações de cientista de dados, especialmente na construção de modelos preditivos._
 
 ## Como contribuir
 
